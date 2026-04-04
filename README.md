@@ -16,11 +16,11 @@ Low-resource environments
 It runs entirely in the browser, making it easy to deploy and use without heavy dependencies.
 
 <h2>Features</h2>
-TV-style UI: Clean, distraction-free interface designed for distance viewing
-Lightweight & Fast: Optimized for older hardware with minimal system load
-Keyboard / Remote Friendly: Navigate everything without a mouse
-Web-based: Runs locally in a browser — no installation required,
-Customizable Tiles / Layout.
+TV-style UI: Clean, distraction-free interface designed for distance viewing<br>
+Lightweight & Fast: Optimized for older hardware with minimal system load<br>
+Keyboard / Remote Friendly: Navigate everything without a mouse<br>
+Web-based: Runs locally in a browser — no installation required,<br>
+Customizable Tiles / Layout.<br>
 
 
 <h2>Controls</h2>
