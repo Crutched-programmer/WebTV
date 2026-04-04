@@ -53,12 +53,6 @@ HTML / CSS / JavaScript
 Browser-based rendering (no frameworks required)
 <h2>Design Philosophy</h2>
 
-WebTV focuses on:
-
-Low overhead
-Instant usability
-Modular expansion
-
 Instead of relying on heavy software, it leverages the browser as a universal runtime.
 
 <h2>Future Improvements (Optional)</h2>
