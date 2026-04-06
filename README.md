@@ -1,4 +1,4 @@
-<h1>WebTV MK 2.0.0</h1>
+<h1>WebTV MK IV</h1>
 
 WebTV is a lightweight, browser-based smart TV interface designed to turn any low-spec machine into a fully functional media hub. Built with simplicity and performance in mind, it transforms an old PC (like a legacy Dell system) into a clean, responsive, and remote-friendly TV experience.
 
@@ -38,19 +38,20 @@ Controls can be extended or remapped depending on your setup (e.g., Arduino HID 
 <h2>Use Case</h2>
 
 Originally built to repurpose an old Dell system, WebTV acts as:
+- A smart TV interface<br>
+- A media launcher<br>
+- A local control dashboard<br>
+- A front-end for web apps and tools<br>
 
-A smart TV interface
-A media launcher
-A local control dashboard
-A front-end for web apps and tools
-<h2>Setup</h2>
-Clone or download the project
-Open the main HTML file in a browser
-(or host it locally via a simple server)
-Enter fullscreen mode for best experience
-<h2>Tech Stack</h2>
-HTML / CSS / JavaScript
-Browser-based rendering (no frameworks required)
+ <h2>Setup</h2>
+- Clone or download the project<br>
+- Open the main HTML file in a browser<br>
+- (or host it locally via a simple server)<br>
+- Enter fullscreen mode for best experience<br>
+
+- <h2>Tech Stack</h2>
+- HTML / CSS / JavaScript<br>
+- Browser-based rendering (no frameworks required)<br>
 <h2>Design Philosophy</h2>
 
 Instead of relying on heavy software, it leverages the browser as a universal runtime.
