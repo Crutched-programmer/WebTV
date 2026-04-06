@@ -3,6 +3,8 @@
 WebTV is a lightweight, browser-based smart TV interface designed to turn any low-spec machine into a fully functional media hub. Built with simplicity and performance in mind, it transforms an old PC (like a legacy Dell system) into a clean, responsive, and remote-friendly TV experience.
 
 <img src='https://github.com/user-attachments/assets/cb0f9a60-caa7-4cae-92ce-2b4a9424d463' />
+*MK IV introduces a lockscreen with an arrow key pattern based password auth system. the default is ➡️➡️⬅️➡️*
+
 <h2>Overview</h2>
 
 WebTV provides a fullscreen, minimal UI optimized for:
