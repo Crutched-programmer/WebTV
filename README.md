@@ -1,4 +1,4 @@
-<h1>WebTV</h1>
+<h1>WebTV MK 2.0.0</h1>
 
 WebTV is a lightweight, browser-based smart TV interface designed to turn any low-spec machine into a fully functional media hub. Built with simplicity and performance in mind, it transforms an old PC (like a legacy Dell system) into a clean, responsive, and remote-friendly TV experience.
 
